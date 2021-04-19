@@ -4,7 +4,7 @@ import { isAuthenticated } from "../auth";
 import { Link } from "react-router-dom";
 
 const AdminDashboard = () => {
-    const {
+    const {// eslint-disable-next-line
         user: { _id, name, email, role }
     } = isAuthenticated();
 

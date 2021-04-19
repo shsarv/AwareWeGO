@@ -1,5 +1,6 @@
 import React from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+import { Link } from "react-router-dom";
 
 const FooterPagePro = () => {
   return (
@@ -13,21 +14,21 @@ const FooterPagePro = () => {
               </h6>
             </MDBCol>
             <MDBCol md="6" lg="7" className="text-center text-md-right">
-              <a className="fb-ic ml-0">
+              <Link className="fb-ic ml-0">
                 <i className="fab fa-facebook-f white-text mr-lg-4"> </i>
-              </a>
-              <a className="tw-ic">
+              </Link>
+              <Link className="tw-ic">
                 <i className="fab fa-twitter white-text mr-lg-4"> </i>
-              </a>
-              <a className="gplus-ic">
+              </Link>
+              <Link className="gplus-ic">
                 <i className="fab fa-google-plus-g white-text mr-lg-4"> </i>
-              </a>
-              <a className="li-ic">
+              </Link>
+              <Link className="li-ic">
                 <i className="fab fa-linkedin-in white-text mr-lg-4"> </i>
-              </a>
-              <a className="ins-ic">
+              </Link>
+              <Link className="ins-ic">
                 <i className="fab fa-instagram white-text mr-lg-4"> </i>
-              </a>
+              </Link>
             </MDBCol>
           </MDBRow>
         </MDBContainer>
@@ -49,24 +50,24 @@ const FooterPagePro = () => {
             </h6>
             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "60px" }} />
             <p>
-              <a href="./shop" className="dark-grey-text">
+              <Link to="./shop" className="dark-grey-text">
                 Vegetables & Fruit
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="./shop" className="dark-grey-text">
+              <Link to="./shop" className="dark-grey-text">
                 Beverages
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="./shop" className="dark-grey-text">
+              <Link to="./shop" className="dark-grey-text">
                 Splices
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="./shop" className="dark-grey-text">
+              <Link to="./shop" className="dark-grey-text">
                 Grains
-              </a>
+              </Link>
             </p>
           </MDBCol>
           <MDBCol md="3" lg="2" xl="2" className="mb-4 dark-grey-text">
@@ -75,24 +76,24 @@ const FooterPagePro = () => {
             </h6>
             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{ width: "60px" }} />
             <p>
-              <a href="./../user/dashboard" className="dark-grey-text">
+              <Link to="./../user/dashboard" className="dark-grey-text">
                 Your Account
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="" className="dark-grey-text">
+              <Link to="#" className="dark-grey-text">
                 Become an Affiliate
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="" className="dark-grey-text">
+              <Link to="" className="dark-grey-text">
                 Shipping Rates
-              </a>
+              </Link>
             </p>
             <p>
-              <a href="#!" className="dark-grey-text">
+              <Link to="#" className="dark-grey-text">
                 Help
-              </a>
+              </Link>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="3" xl="3" className="mb-4 dark-grey-text">
@@ -118,7 +119,7 @@ const FooterPagePro = () => {
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
           &copy; {new Date().getFullYear()} Copyright:{" "}
-          <a href="https://github.com/shsarv"> www.awarewego.com </a>
+          <Link to="https://github.com/shsarv"> www.awarewego.com</Link>
         </MDBContainer>
       </div>
     </MDBFooter>

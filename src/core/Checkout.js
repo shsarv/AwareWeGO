@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+/* eslint-disable no-unused-vars */
 import { getProducts, getBraintreeClientToken, processPayment, createOrder } from './apiCore';
 import { emptyCart } from './cartHelpers';
 import Card from './Card';
@@ -34,6 +35,7 @@ const Checkout = ({ products, setRun = f => f, run = undefined }) => {
 
     useEffect(() => {
         getToken(userId, token);
+        // eslint-disable-next-line
     }, []);
 
     const handleAddress = event => {
@@ -63,8 +65,7 @@ const Checkout = ({ products, setRun = f => f, run = undefined }) => {
         // send the nonce to your server
         // nonce = data.instance.requestPaymentMethod()
         let nonce;
-        let getNonce = data.instance
-            .requestPaymentMethod()
+        let getNonce = data.instance.requestPaymentMethod()
             .then(data => {
                 // console.log(data);
                 nonce = data.nonce;
