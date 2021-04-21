@@ -37,11 +37,11 @@ This will focus on-
 
 ### Technologies to be Used
 
-   <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-  <code><img height="50" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="React"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="ExpressJS"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB"></code>
+
 
 ### Codebase <img src="https://www.flaticon.com/svg/static/icons/svg/3565/3565585.svg" width="24px">
 
