@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/shsarv/AwareWeGO/master/src/image/AWARE1.jpg" width="50px"> AwareWeGo <img src="https://raw.githubusercontent.com/shsarv/AwareWeGO/master/src/image/AWARE.gif" width="50px"></h1>
+<h1><img src="https://raw.githubusercontent.com/shsarv/AwareWeGO/master/src/image/AWARE1.jpg" width="50px"> AwareWeGo </h1>
 
    ![](https://img.shields.io/badge/MongoDB-4.2.13-003300?style=flat-circle&logo=MongoDB)
    ![](https://img.shields.io/badge/ExpressJS-4.17.1-000000?style=flat-circle&logo=Express)
@@ -84,7 +84,7 @@ The following dependencies can be found in [package.json](https://github.com/shs
 <table>
   <tr>
     <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=shsarv" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/jeeveshgangw"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFZS3bFwLuwNw/profile-displayphoto-shrink_400_400/0?e=1611187200&v=beta&t=16bDifivjMfnvr9Dp74R68mCYFwzHnm7PaLTNzexts4" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/jeeveshgangw"><img src="https://avatars.githubusercontent.com/u/58340678?v=4" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
    <tr>
     <table>
 
