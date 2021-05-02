@@ -14,6 +14,45 @@ This project is live at-------> **http://awarewego.herokuapp.com/**
 
 <hr>
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
 ### Objective <img src="https://www.flaticon.com/svg/static/icons/svg/827/827816.svg" width="24px">
 
 The main objective of the project is to create An effective Agric-E-commerce solution where people can buy fresh agriculture product directly from the farmers and let farmers to sell their product without paying extra charges in between as well as grow up their market outside of the locality.
@@ -58,17 +97,6 @@ This will focus on-
   6. To run the React project. execute `$npm start`. and it will point to the `localhost` server with the port `3000`.
   8. Enter the `IP Address: http://localhost:3000` on a web browser and use the application. make sure that your backend api is running.
 
-<!--
-### 📂 Structure
-The directory contains web sub directories and a sub directory for hosting model and other scripts:
-1. [app.p](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/app.py) The file which contains all the main backend operations of the website and used to run the flask server locally.   
-2. [Procfile](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Procfile) for setting up heroku.
-3. [requirements.txt](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/requirements.txt) contains all the dependencies.
-4. [templates](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/templates) contains the html file.
-5. [static](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/static) contains the css,javascript files and images.
-6. [notebook](https://github.com/shsarv/UNPLUG-THE-PLAYER/tree/main/notebook) contains all the jupyter notebooks and model development.
-7. [Resources.zip](https://github.com/shsarv/UNPLUG-THE-PLAYER/blob/main/Resources.zip) contains all the report and other resources in form of compressed file. -->
-
 
 ### Dependencies <img src="https://www.flaticon.com/svg/static/icons/svg/2621/2621122.svg" width="24px">
 
@@ -87,8 +115,4 @@ The following dependencies can be found in [package.json](https://github.com/shs
   <td align="center"><a href="https://github.com/jeeveshgangw"><img src="https://avatars.githubusercontent.com/u/58340678?v=4" width="100px;" alt=""/><br /><sub><b>Jeevesh Gangwar</b></sub></a><br /><a href="https://github.com/shsarv/UNPLUG-THE-PLAYER/commits?author=jeeveshgangw" title="Code">💻</a></td>
    <tr>
     <table>
-
-
-<!-- ### Scope <img src="https://www.flaticon.com/svg/static/icons/svg/1014/1014962.svg" width="24px">
-This project can be transferred as a major project by including more features like general knowledge, field description , type of events, teams and many more and finally giving a complete virtual feel of football to the player which allows game player to play games in different domains and other sports. -->
 
